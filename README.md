@@ -1,6 +1,7 @@
 # ŞAH MAT
            
-Veri Seti Tanıtımı              
+Veri Seti Tanıtımı
+--
 Görmüş olduğunuz bu grafiklerin hepsi 2,6 Milyon oynanmış bir oyunun özetidir. Bu veri setinde oyuncuların hangi rankta oldukları, hangi açılışı yaptıkları , oyunun kaç hamlede bittiği gibi veriler yer almaktadır. Aşağıda verilmiş olan grafiklerde ilginizi çekebilecek noktalara değinmeye çalıştım.
 
 Veri Seti:
