@@ -8,6 +8,10 @@ Veri Seti:
 --
 [chess-game.csv](https://www.kaggle.com/datasets/arevel/chess-games)
 
+Poster
+--
+- ![Poster](https://github.com/huseyinkayar/Veri_Gorsellestirme_Final_Odevi/blob/main/Graphics/Poster.jpg?raw=true)
+
 Grafik Çıktıları:
 --
 - ![Grafik 1](https://github.com/huseyinkayar/Veri_Gorsellestirme_Final_Odevi/blob/main/Graphics/1-Renge%20G%C3%B6re.png?raw=true)
