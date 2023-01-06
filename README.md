@@ -1,6 +1,6 @@
 # ŞAH MAT
-
-
+           
+Görmüş olduğunuz bu grafiklerin hepsi 2,6 Milyon oynanmış bir oyunun özetidir. Bu veri setinde oyuncuların hangi rankta oldukları, hangi açılışı yaptıkları , oyunun kaç hamlede bittiği gibi veriler yer almaktadır. Aşağıda verilmiş olan grafiklerde ilginizi çekebilecek noktalar değinmeye çalıştım
 
 Veri Seti:
 --
