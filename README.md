@@ -5,7 +5,7 @@ Görmüş olduğunuz bu grafiklerin hepsi 2,6 Milyon oynanmış bir oyunun özet
 
 Veri Seti:
 --
-[chess-game.csv](https://www.kaggle.com/datasets/arevel/chess-games) \
+[chess-game.csv](https://www.kaggle.com/datasets/arevel/chess-games)
 
 Grafik Çıktıları:
 --
