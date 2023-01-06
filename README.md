@@ -3,5 +3,5 @@
 Veri seti:
 -------
 
-Grafik Çıktıları:
+Grafik Çıktıları: \
 [Açılışlara Göre Kazanma Oranı](/Graphics/Opening Win Rate.jpeg)
