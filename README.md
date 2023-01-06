@@ -1,1 +1,4 @@
-# Veri_Gorsellestirme_Final_Odevi
+# ŞAH MAT
+
+Veri seti:
+-------
