@@ -8,11 +8,15 @@ Veri Seti:
 
 Grafik Çıktıları:
 --
-- ![alt text](https://github.com/huseyinkayar/Veri_Gorsellestirme_Final_Odevi/blob/main/Graphics/Opening%20Win%20Rate.jpeg?raw=true)
+- ![alt text](https://github.com/huseyinkayar/Veri_Gorsellestirme_Final_Odevi/blob/main/Graphics/1-Renge%20G%C3%B6re.png?raw=true)
 
-- ![alt text](https://github.com/huseyinkayar/Veri_Gorsellestirme_Final_Odevi/blob/main/Graphics/Termination-Style.jpeg?raw=true)
+- ![alt text](https://github.com/huseyinkayar/Veri_Gorsellestirme_Final_Odevi/blob/main/Graphics/2-A%C3%A7%C4%B1l%C4%B1%C5%9F%20Hamlelerine%20G%C3%B6re%20Kazan%C4%B1lan%20Oyun%20Say%C4%B1s%C4%B1.png?raw=true)
 
-- ![alt text](https://github.com/huseyinkayar/Veri_Gorsellestirme_Final_Odevi/blob/main/Graphics/White-Black%20Winning%20Rate.jpeg?raw=true)
+- ![alt text](https://github.com/huseyinkayar/Veri_Gorsellestirme_Final_Odevi/blob/main/Graphics/3-Derecelere%20G%C3%B6re%20En%20S%C4%B1k%20Kazanan%20A%C3%A7%C4%B1l%C4%B1%C5%9Flar.png?raw=true)
+
+- ![alt text](https://github.com/huseyinkayar/Veri_Gorsellestirme_Final_Odevi/blob/main/Graphics/4-Oyun%20T%C3%BCr%C3%BCne%20G%C3%B6re%20Yenilme%20%C5%9Eekli.png?raw=true
+)
+
 
 Kodlar:
 --
