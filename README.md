@@ -6,6 +6,7 @@ Görmüş olduğunuz bu grafiklerin hepsi 2,6 Milyon oynanmış bir oyunun özet
 Veri Seti:
 --
 [chess-game.csv](https://www.kaggle.com/datasets/arevel/chess-games) \
+
 Grafik Çıktıları:
 --
 - ![Grafik 1](https://github.com/huseyinkayar/Veri_Gorsellestirme_Final_Odevi/blob/main/Graphics/1-Renge%20G%C3%B6re.png?raw=true)
