@@ -2,3 +2,5 @@
 
 Veri seti:
 -------
+
+Grafik Çıktıları:
