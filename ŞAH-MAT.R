@@ -196,10 +196,10 @@ chessTerminationAndEventChanged <- within(chessTerminationAndEvent, {
 })
 
 #Graph for termination and event dataset
-ggplot(chessTerminationAndEventChanged,aes(area=chessTerminationAndEvent$percent,
-                                           fill=chessTerminationAndEvent$Termination,
-                                           label=chessTerminationAndEvent$Termination,
-                                           subgroup=chessTerminationAndEvent$Event))+
+ggplot(chessTerminationAndEventChanged,aes(area=chessTerminationAndEventChanged$percent,
+                       fill=chessTerminationAndEventChanged$Termination,
+                       label=chessTerminationAndEventChanged$Termination,
+                       subgroup=chessTerminationAndEventChanged$Event))+
   ggtitle("Oyun Türüne Göre Oyunun Sonlanma Şekli")+
   theme(plot.title = element_text(hjust = 0.5))+
   geom_treemap()+
@@ -214,4 +214,3 @@ ggplot(chessTerminationAndEventChanged,aes(area=chessTerminationAndEvent$percent
                              colour="black")+
   theme(legend.position = "none")+
   scale_fill_brewer(palette = "Purples")
-
