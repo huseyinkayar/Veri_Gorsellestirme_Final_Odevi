@@ -1,6 +1,8 @@
 # ŞAH MAT
 
-Veri seti:
+
+
+Veri Seti:
 --
 
 Grafik Çıktıları:
