@@ -4,4 +4,5 @@ Veri seti:
 -------
 
 Grafik Çıktıları:
-- (/Graphics/Opening Win Rate)
+- ![alt text](/Graphics/Termination-Style.png)
+
