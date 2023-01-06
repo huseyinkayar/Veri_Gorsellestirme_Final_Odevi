@@ -4,5 +4,5 @@ Veri seti:
 -------
 
 Grafik Çıktıları:
-- ![alt text](/Graphics/Termination-Style)
+- ![alt text](http://Graphics/Termination-Style.png)
 
